@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FileApps.MatchFeatures" GeneratedClassName="java">
+  <Profiles />
+  <Settings>
+    <Setting Name="CloseBracket" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">}</Value>
+    </Setting>
+    <Setting Name="OpenBracket" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">{</Value>
+    </Setting>
+    <Setting Name="FileExtention" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.java</Value>
+    </Setting>
+    <Setting Name="FileFilter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Java files (*.java)|*.java|</Value>
+    </Setting>
+    <Setting Name="SingleLineComment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">//</Value>
+    </Setting>
+    <Setting Name="StartMultiLineComment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/*</Value>
+    </Setting>
+    <Setting Name="EndMultiLineComment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">*/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

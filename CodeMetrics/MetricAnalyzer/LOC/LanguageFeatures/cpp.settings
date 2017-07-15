@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FileApps.MatchFeatures" GeneratedClassName="cpp">
+  <Profiles />
+  <Settings>
+    <Setting Name="FileExtention" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.cpp</Value>
+    </Setting>
+    <Setting Name="SingleLineComment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">//</Value>
+    </Setting>
+    <Setting Name="StartMultiLineComment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/*</Value>
+    </Setting>
+    <Setting Name="EndMultiLineComment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">*/</Value>
+    </Setting>
+    <Setting Name="OpenBracket" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">{</Value>
+    </Setting>
+    <Setting Name="CloseBracket" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">}</Value>
+    </Setting>
+    <Setting Name="FileFilter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C++ files (*.cpp)|*.cpp|</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
